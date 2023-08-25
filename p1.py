@@ -1,0 +1,11 @@
+a = 10
+b = 10
+c = a + b 
+print(c)
+
+
+a ='Pritam'
+b = 'is very successful Data Scientist'
+c = a + b
+print(c)
+
